@@ -1,0 +1,277 @@
+Country Group Code,Country Group,Country Code,Country,M49 Code,ISO2 Code,ISO3 Code
+5100,Africa,4,Algeria,12,DZ,DZA
+5100,Africa,7,Angola,24,AO,AGO
+5100,Africa,53,Benin,204,BJ,BEN
+5100,Africa,20,Botswana,72,BW,BWA
+5100,Africa,233,Burkina Faso,854,BF,BFA
+5100,Africa,29,Burundi,108,BI,BDI
+5100,Africa,35,Cabo Verde,132,CV,CPV
+5100,Africa,32,Cameroon,120,CM,CMR
+5100,Africa,37,Central African Republic,140,CF,CAF
+5100,Africa,39,Chad,148,TD,TCD
+5100,Africa,24,Chagos Archipelago,86,IO,IOT
+5100,Africa,45,Comoros,174,KM,COM
+5100,Africa,46,Congo,178,CG,COG
+5100,Africa,107,Côte d'Ivoire,384,CI,CIV
+5100,Africa,250,Democratic Republic of the Congo,180,CD,COD
+5100,Africa,72,Djibouti,262,DJ,DJI
+5100,Africa,59,Egypt,818,EG,EGY
+5100,Africa,61,Equatorial Guinea,226,GQ,GNQ
+5100,Africa,178,Eritrea,232,ER,ERI
+5100,Africa,209,Eswatini,748,SZ,SWZ
+5100,Africa,238,Ethiopia,231,ET,ETH
+5100,Africa,62,Ethiopia PDR,230,F62,F62
+5100,Africa,71,French Southern Territories,260,TF,ATF
+5100,Africa,74,Gabon,266,GA,GAB
+5100,Africa,75,Gambia,270,GM,GMB
+5100,Africa,81,Ghana,288,GH,GHA
+5100,Africa,90,Guinea,324,GN,GIN
+5100,Africa,175,Guinea-Bissau,624,GW,GNB
+5100,Africa,114,Kenya,404,KE,KEN
+5100,Africa,122,Lesotho,426,LS,LSO
+5100,Africa,123,Liberia,430,LR,LBR
+5100,Africa,124,Libya,434,LY,LBY
+5100,Africa,129,Madagascar,450,MG,MDG
+5100,Africa,130,Malawi,454,MW,MWI
+5100,Africa,133,Mali,466,ML,MLI
+5100,Africa,136,Mauritania,478,MR,MRT
+5100,Africa,137,Mauritius,480,MU,MUS
+5100,Africa,270,Mayotte,175,YT,MYT
+5100,Africa,143,Morocco,504,MA,MAR
+5100,Africa,144,Mozambique,508,MZ,MOZ
+5100,Africa,147,Namibia,516,NA,NAM
+5100,Africa,158,Niger,562,NE,NER
+5100,Africa,159,Nigeria,566,NG,NGA
+5100,Africa,182,Réunion,638,RE,REU
+5100,Africa,184,Rwanda,646,RW,RWA
+5100,Africa,187,"Saint Helena, Ascension and Tristan da Cunha",654,SH,SHN
+5100,Africa,193,Sao Tome and Principe,678,ST,STP
+5100,Africa,195,Senegal,686,SN,SEN
+5100,Africa,196,Seychelles,690,SC,SYC
+5100,Africa,197,Sierra Leone,694,SL,SLE
+5100,Africa,201,Somalia,706,SO,SOM
+5100,Africa,202,South Africa,710,ZA,ZAF
+5100,Africa,277,South Sudan,728,SS,SSD
+5100,Africa,276,Sudan,729,SD,SDN
+5100,Africa,206,Sudan (former),736,F206,F206
+5100,Africa,217,Togo,768,TG,TGO
+5100,Africa,222,Tunisia,788,TN,TUN
+5100,Africa,226,Uganda,800,UG,UGA
+5100,Africa,215,United Republic of Tanzania,834,TZ,TZA
+5100,Africa,616,"Western Africa, unspecified",875,F616,F616
+5100,Africa,205,Western Sahara,732,EH,ESH
+5100,Africa,251,Zambia,894,ZM,ZMB
+5100,Africa,181,Zimbabwe,716,ZW,ZWE
+5200,Americas,258,Anguilla,660,AI,AIA
+5200,Americas,8,Antigua and Barbuda,28,AG,ATG
+5200,Americas,9,Argentina,32,AR,ARG
+5200,Americas,22,Aruba,533,AW,ABW
+5200,Americas,12,Bahamas,44,BS,BHS
+5200,Americas,14,Barbados,52,BB,BRB
+5200,Americas,23,Belize,84,BZ,BLZ
+5200,Americas,17,Bermuda,60,BM,BMU
+5200,Americas,19,Bolivia (Plurinational State of),68,BO,BOL
+5200,Americas,278,"Bonaire, Sint Eustatius and Saba",535,F278,BES
+5200,Americas,31,Bouvet Island,74,BV,BVT
+5200,Americas,21,Brazil,76,BR,BRA
+5200,Americas,239,British Virgin Islands,92,VG,VGB
+5200,Americas,33,Canada,124,CA,CAN
+5200,Americas,609,"Caribbean, unspecified (population)",29.01,F609,F609
+5200,Americas,36,Cayman Islands,136,KY,CYM
+5200,Americas,40,Chile,152,CL,CHL
+5200,Americas,44,Colombia,170,CO,COL
+5200,Americas,48,Costa Rica,188,CR,CRI
+5200,Americas,49,Cuba,192,CU,CUB
+5200,Americas,279,Curaçao,531,F279,CUW
+5200,Americas,55,Dominica,212,DM,DMA
+5200,Americas,56,Dominican Republic,214,DO,DOM
+5200,Americas,58,Ecuador,218,EC,ECU
+5200,Americas,60,El Salvador,222,SV,SLV
+5200,Americas,65,Falkland Islands (Malvinas),238,FK,FLK
+5200,Americas,69,French Guyana,254,GF,GUF
+5200,Americas,85,Greenland,304,GL,GRL
+5200,Americas,86,Grenada,308,GD,GRD
+5200,Americas,87,Guadeloupe,312,GP,GLP
+5200,Americas,89,Guatemala,320,GT,GTM
+5200,Americas,91,Guyana,328,GY,GUY
+5200,Americas,93,Haiti,332,HT,HTI
+5200,Americas,95,Honduras,340,HN,HND
+5200,Americas,109,Jamaica,388,JM,JAM
+5200,Americas,135,Martinique,474,MQ,MTQ
+5200,Americas,138,Mexico,484,MX,MEX
+5200,Americas,142,Montserrat,500,MS,MSR
+5200,Americas,151,Netherlands Antilles (former),530,AN,ANT
+5200,Americas,157,Nicaragua,558,NI,NIC
+5200,Americas,622,"Northern America, unspecified (population)",21.01,F622,F622
+5200,Americas,166,Panama,591,PA,PAN
+5200,Americas,169,Paraguay,600,PY,PRY
+5200,Americas,170,Peru,604,PE,PER
+5200,Americas,177,Puerto Rico,630,PR,PRI
+5200,Americas,282,Saint Barthélemy,652,F282,BLM
+5200,Americas,188,Saint Kitts and Nevis,659,KN,KNA
+5200,Americas,189,Saint Lucia,662,LC,LCA
+5200,Americas,190,Saint Pierre and Miquelon,666,PM,SPM
+5200,Americas,191,Saint Vincent and the Grenadines,670,VC,VCT
+5200,Americas,281,Saint-Martin (French part),663,F281,MAF
+5200,Americas,280,Sint Maarten (Dutch part),534,F280,SXM
+5200,Americas,614,"South America, unspecified",283,F614,F614
+5200,Americas,271,South Georgia and the South Sandwich Islands,239,GS,SGS
+5200,Americas,207,Suriname,740,SR,SUR
+5200,Americas,220,Trinidad and Tobago,780,TT,TTO
+5200,Americas,224,Turks and Caicos Islands,796,TC,TCA
+5200,Americas,231,United States of America,840,US,USA
+5200,Americas,240,United States Virgin Islands,850,VI,VIR
+5200,Americas,234,Uruguay,858,UY,URY
+5200,Americas,236,Venezuela (Bolivarian Republic of),862,VE,VEN
+5300,Asia,2,Afghanistan,4,AF,AFG
+5300,Asia,1,Armenia,51,AM,ARM
+5300,Asia,52,Azerbaijan,31,AZ,AZE
+5300,Asia,13,Bahrain,48,BH,BHR
+5300,Asia,16,Bangladesh,50,BD,BGD
+5300,Asia,18,Bhutan,64,BT,BTN
+5300,Asia,26,Brunei Darussalam,96,BN,BRN
+5300,Asia,115,Cambodia,116,KH,KHM
+5300,Asia,351,China,159,F351,CHN
+5300,Asia,96,"China, Hong Kong SAR",344,HK,HKG
+5300,Asia,128,"China, Macao SAR",446,MO,MAC
+5300,Asia,41,"China, mainland",156,CN,F41
+5300,Asia,214,"China, Taiwan Province of",158,TW,TWN
+5300,Asia,50,Cyprus,196,CY,CYP
+5300,Asia,116,Democratic People's Republic of Korea,408,KP,PRK
+5300,Asia,73,Georgia,268,GE,GEO
+5300,Asia,100,India,356,IN,IND
+5300,Asia,101,Indonesia,360,ID,IDN
+5300,Asia,102,Iran (Islamic Republic of),364,IR,IRN
+5300,Asia,103,Iraq,368,IQ,IRQ
+5300,Asia,105,Israel,376,IL,ISR
+5300,Asia,110,Japan,392,JP,JPN
+5300,Asia,112,Jordan,400,JO,JOR
+5300,Asia,108,Kazakhstan,398,KZ,KAZ
+5300,Asia,118,Kuwait,414,KW,KWT
+5300,Asia,113,Kyrgyzstan,417,KG,KGZ
+5300,Asia,120,Lao People's Democratic Republic,418,LA,LAO
+5300,Asia,121,Lebanon,422,LB,LBN
+5300,Asia,131,Malaysia,458,MY,MYS
+5300,Asia,132,Maldives,462,MV,MDV
+5300,Asia,141,Mongolia,496,MN,MNG
+5300,Asia,28,Myanmar,104,MM,MMR
+5300,Asia,149,Nepal,524,NP,NPL
+5300,Asia,221,Oman,512,OM,OMN
+5300,Asia,165,Pakistan,586,PK,PAK
+5300,Asia,299,Palestine,275,F299,PSE
+5300,Asia,171,Philippines,608,PH,PHL
+5300,Asia,179,Qatar,634,QA,QAT
+5300,Asia,117,Republic of Korea,410,KR,KOR
+5300,Asia,194,Saudi Arabia,682,SA,SAU
+5300,Asia,200,Singapore,702,SG,SGP
+5300,Asia,38,Sri Lanka,144,LK,LKA
+5300,Asia,212,Syrian Arab Republic,760,SY,SYR
+5300,Asia,208,Tajikistan,762,TJ,TJK
+5300,Asia,216,Thailand,764,TH,THA
+5300,Asia,176,Timor-Leste,626,TL,TLS
+5300,Asia,223,Türkiye,792,TR,TUR
+5300,Asia,213,Turkmenistan,795,TM,TKM
+5300,Asia,225,United Arab Emirates,784,AE,ARE
+5300,Asia,235,Uzbekistan,860,UZ,UZB
+5300,Asia,237,Viet Nam,704,VN,VNM
+5300,Asia,249,Yemen,887,YE,YEM
+5300,Asia,246,Yemen Ar Rp,886,F246,F246
+5300,Asia,247,Yemen Dem,720,F247,F247
+5400,Europe,284,Åland Islands,248,F284,ALA
+5400,Europe,3,Albania,8,AL,ALB
+5400,Europe,6,Andorra,20,AD,AND
+5400,Europe,11,Austria,40,AT,AUT
+5400,Europe,57,Belarus,112,BY,BLR
+5400,Europe,255,Belgium,56,BE,BEL
+5400,Europe,15,Belgium-Luxembourg,58,F15,F15
+5400,Europe,80,Bosnia and Herzegovina,70,BA,BIH
+5400,Europe,27,Bulgaria,100,BG,BGR
+5400,Europe,259,Channel Islands,830,F259,CHA
+5400,Europe,98,Croatia,191,HR,HRV
+5400,Europe,167,Czechia,203,CZ,CZE
+5400,Europe,51,Czechoslovakia,200,F51,F51
+5400,Europe,54,Denmark,208,DK,DNK
+5400,Europe,63,Estonia,233,EE,EST
+5400,Europe,64,Faroe Islands,234,FO,FRO
+5400,Europe,67,Finland,246,FI,FIN
+5400,Europe,68,France,250,FR,FRA
+5400,Europe,79,Germany,276,DE,DEU
+5400,Europe,78,Germany Fr,280,F78,F78
+5400,Europe,77,Germany Nl,278,F77,F77
+5400,Europe,82,Gibraltar,292,GI,GIB
+5400,Europe,84,Greece,300,GR,GRC
+5400,Europe,274,Guernsey,831,F274,GGY
+5400,Europe,94,Holy See,336,VA,VAT
+5400,Europe,97,Hungary,348,HU,HUN
+5400,Europe,99,Iceland,352,IS,ISL
+5400,Europe,104,Ireland,372,IE,IRL
+5400,Europe,264,Isle of Man,833,IM,IMN
+5400,Europe,106,Italy,380,IT,ITA
+5400,Europe,283,Jersey,832,F283,JEY
+5400,Europe,275,Kosovo,412,F275,F275
+5400,Europe,119,Latvia,428,LV,LVA
+5400,Europe,125,Liechtenstein,438,LI,LIE
+5400,Europe,126,Lithuania,440,LT,LTU
+5400,Europe,256,Luxembourg,442,LU,LUX
+5400,Europe,134,Malta,470,MT,MLT
+5400,Europe,140,Monaco,492,MC,MCO
+5400,Europe,273,Montenegro,499,ME,MNE
+5400,Europe,150,Netherlands,528,NL,NLD
+5400,Europe,154,North Macedonia,807,MK,MKD
+5400,Europe,619,"Northern Europe, unspecified (population)",154.01,F619,F619
+5400,Europe,162,Norway,578,NO,NOR
+5400,Europe,173,Poland,616,PL,POL
+5400,Europe,174,Portugal,620,PT,PRT
+5400,Europe,146,Republic of Moldova,498,MD,MDA
+5400,Europe,183,Romania,642,RO,ROU
+5400,Europe,185,Russian Federation,643,RU,RUS
+5400,Europe,192,San Marino,674,SM,SMR
+5400,Europe,272,Serbia,688,RS,SRB
+5400,Europe,186,Serbia and Montenegro,891,CS,SCG
+5400,Europe,199,Slovakia,703,SK,SVK
+5400,Europe,198,Slovenia,705,SI,SVN
+5400,Europe,620,"Southern Europe, unspecified",715,F620,F620
+5400,Europe,203,Spain,724,ES,ESP
+5400,Europe,260,Svalbard and Jan Mayen Islands,744,SJ,SJM
+5400,Europe,210,Sweden,752,SE,SWE
+5400,Europe,211,Switzerland,756,CH,CHE
+5400,Europe,230,Ukraine,804,UA,UKR
+5400,Europe,229,United Kingdom of Great Britain and Northern Ireland,826,GB,GBR
+5400,Europe,228,USSR,810,F228,F228
+5400,Europe,621,"Western Europe, unspecified (population)",155.01,F621,F621
+5400,Europe,248,Yugoslav SFR,890,F248,F248
+5500,Oceania,5,American Samoa,16,AS,ASM
+5500,Oceania,10,Australia,36,AU,AUS
+5500,Oceania,42,Christmas Island,162,CX,CXR
+5500,Oceania,43,Cocos (Keeling) Islands,166,CC,CCK
+5500,Oceania,47,Cook Islands,184,CK,COK
+5500,Oceania,66,Fiji,242,FJ,FJI
+5500,Oceania,70,French Polynesia,258,PF,PYF
+5500,Oceania,88,Guam,316,GU,GUM
+5500,Oceania,92,Heard and McDonald Islands,334,HM,HMD
+5500,Oceania,111,Johnston Island,396,JT,JTN
+5500,Oceania,83,Kiribati,296,KI,KIR
+5500,Oceania,127,Marshall Islands,584,MH,MHL
+5500,Oceania,145,Micronesia (Federated States of),583,FM,FSM
+5500,Oceania,617,"Micronesia, unspecified",57.01,F617,F617
+5500,Oceania,139,Midway Island,488,MI,MID
+5500,Oceania,148,Nauru,520,NR,NRU
+5500,Oceania,153,New Caledonia,540,NC,NCL
+5500,Oceania,156,New Zealand,554,NZ,NZL
+5500,Oceania,160,Niue,570,NU,NIU
+5500,Oceania,161,Norfolk Island,574,NF,NFK
+5500,Oceania,163,Northern Mariana Islands,580,MP,MNP
+5500,Oceania,164,Pacific Islands Trust Territory,582,F164,F164
+5500,Oceania,180,Palau,585,PW,PLW
+5500,Oceania,168,Papua New Guinea,598,PG,PNG
+5500,Oceania,172,Pitcairn,612,PN,PCN
+5500,Oceania,618,"Polynesia, unspecified",286,F618,F618
+5500,Oceania,244,Samoa,882,WS,WSM
+5500,Oceania,25,Solomon Islands,90,SB,SLB
+5500,Oceania,218,Tokelau,772,TK,TKL
+5500,Oceania,219,Tonga,776,TO,TON
+5500,Oceania,227,Tuvalu,798,TV,TUV
+5500,Oceania,232,United States Minor Outlying Islands,581,UM,UMI
+5500,Oceania,155,Vanuatu,548,VU,VUT
+5500,Oceania,242,Wake Island,872,WK,WAK
+5500,Oceania,243,Wallis and Futuna Islands,876,WF,WLF
